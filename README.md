@@ -24,4 +24,4 @@ Jika ada pertanyaan lebih lanjut, hubungi saya melalui email:
 
 ---
 
-Terima kasih telah mengunjungi repository saya! 😊
+Terima kasih telah mengunjungi repository ini!
