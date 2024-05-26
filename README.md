@@ -14,7 +14,7 @@ Kelengkapan elemen yang disertakan dalam showcase meliputi:
 - **User Flows**
 - **Notasi Dialog**
 - **Sitemap**
-- **Hasil Redesain**
+- **Hasil Redesign**
 
 ## 📧 Kontak
 
